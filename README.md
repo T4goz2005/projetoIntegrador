@@ -1,11 +1,11 @@
-# 📋 Projeto de Avaliação de Pacientes
+ # 📋 Projeto de Avaliação de Pacientes
 
 Este projeto foi desenvolvido em **React Native** utilizando **React Navigation** para gerenciamento de rotas.  
 O objetivo é criar uma aplicação para gestão de **modelos de avaliação de pacientes**, permitindo cadastrar, editar e excluir avaliações de diferentes especialidades médicas.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas (Ate o momento)
 
 - [React Native](https://reactnative.dev/)  
 - [React Navigation](https://reactnavigation.org/)  
