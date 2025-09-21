@@ -1,4 +1,4 @@
- # 📋 Projeto de Avaliação de Pacientes
+ # 📋 Projeto Integrador - Desenvolvimento De aplicativos
 
 Este projeto foi desenvolvido em **React Native** utilizando **React Navigation** para gerenciamento de rotas.  
 O objetivo é criar uma aplicação para gestão de **modelos de avaliação de pacientes**, permitindo cadastrar, editar e excluir avaliações de diferentes especialidades médicas.
